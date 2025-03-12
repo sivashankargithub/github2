@@ -16,6 +16,7 @@ public class JavaFactorial1 {
 		System.out.println("Factorial: "+fact1);
 		int factorial1=findFactorial(3);
 		System.out.println(factorial1);
+		//Comment by Sarita
 	}
 
 }
